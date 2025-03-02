@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Stasenko-Konstantin/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Stasenko-Konstantin/blog/01-go-fyne-android/</loc>
+    <loc>http://localhost:1313/blog/01-go-fyne-android/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Stasenko-Konstantin/blog/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
   </url>
 </urlset>

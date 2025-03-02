@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stasenko-Konstantin</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on Stasenko-Konstantin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Mar 2025 15:00:10 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сборка go-приложений на fyne под Android</title>
+      <link>http://localhost:1313/blog/posts/01-go-android-fyne/</link>
+      <pubDate>Sun, 02 Mar 2025 15:00:10 +0500</pubDate>
+      <guid>http://localhost:1313/blog/posts/01-go-android-fyne/</guid>
+      <description>&lt;h2 id=&#34;pre-requisits&#34;&gt;Pre-requisits&lt;/h2&gt;&#xA;&lt;p&gt;Сперва установим всё необходимое.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

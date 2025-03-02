@@ -1,0 +1,11 @@
+baseURL = 'https://Stasenko-Konstantin/blog'
+languageCode = 'en-us'
+title = 'Stasenko-Konstantin'
+theme = 'risotto'
+DefaultContentLanguage = 'ru'
+
+[params.theme]
+palatte = 'dracula'
+
+[taxonomies]
+tag = "tags"

@@ -16,4 +16,4 @@ title = "blog"
 ---
 
 ## Посты:
-- [(02.03.2025) Сборка и запуск go-приложений на fyne под Android]({{< ref "01-go-fyne-android" >}})
+- [(02.03.2025)]({{< ref "01-go-fyne-android" >}}) Сборка и запуск go-приложений на fyne под Android

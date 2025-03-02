@@ -2,7 +2,7 @@
 title = "blog"
 +++
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&langs_count=8&layout=compact&theme=dark)](https://github.com/Stasenko-Konstantin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stasenko-Konstantin&langs_count=8&layout=compact&theme=dark&exclude_repo=my-blog)](https://github.com/Stasenko-Konstantin)
 
 Привет. Тут я буду оставлять некоторые вещи которые мне не хотелось бы потом мучительно вспоминать. Может быть вам они тоже будут полезны.
 

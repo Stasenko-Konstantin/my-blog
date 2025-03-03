@@ -82,6 +82,7 @@ which adb # должно вывести: /home/{$user}/Android/Sdk/adb
 
 ```bash
 mkdir my-app && cd my-app
+go mod init my-app
 emacs main.go
 ```
 

@@ -38,7 +38,7 @@ mkdir Android
 ```bash
 sudo apt install unzip
 cd Загрузки
-unzip anroid-ndk-r24-linux.zip -d ~/Android
+unzip android-ndk-r24-linux.zip -d ~/Android
 cd ~/Android
 mv ndk-r24-linux ndk-bundle
 ```

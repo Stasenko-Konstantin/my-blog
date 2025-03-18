@@ -273,6 +273,7 @@ func (p Parser[I, E, A]) RunParser(i []I) Either[[]Error, Tuple2[A, []I]] {
 import (
 	"testing"
 
+	"github.com/Stasenko-Konstantin/p"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -297,7 +298,9 @@ func char[I comparable, E any](i I) p.Parser[I, E, I] {
 }
 
 func Test(t *testing.T) {
-	e, ok := char[rune, string]('e').RunParser([]rune("eas")).Right()
+	e, ok := char[rune, string]('e').
+		RunParser([]rune("eas")).
+		Right()
 	assert.True(t, ok)
 	assert.Equal(t, "e", string(e.E1))  // результат парсинга
 	assert.Equal(t, "as", string(e.E2)) // нераспаршенный остаток входного потока 'I'

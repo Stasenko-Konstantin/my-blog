@@ -8,7 +8,7 @@ title = 'Проблема Rust или как и почему я повернул
 Забавно, но первый же результат при запросе `riir` в гугле мне выдало это: <br>
 [why not Rewrite It In Rust (RIIR)](https://github.com/ansuz/RIIR).
 
-![](https://github.com/Stasenko-Konstantin/my-blog/blob/main/static/images/03-arrow-of-riir.png)
+![](https://cdn.jsdelivr.net/gh/Stasenko-Konstantin/my-blog@main/static/images/03-arrow-of-riir.png)
 
 Я люблю трогать различные языки программирования, 
 пробовать изучать их, писать на них что-либо небольшое. Обычно 
@@ -84,7 +84,7 @@ github-профиле написано: "Some gopher", так что ничег�
 практически на каждом шагу и чтобы сделать тривиальные вещи тебе приходится
 делать невероятные кульбиты, прямо как в том самом меме:
 
-![](https://github.com/Stasenko-Konstantin/my-blog/blob/main/static/images/03-mental-gymnastics.jpg)
+![](https://cdn.jsdelivr.net/gh/Stasenko-Konstantin/my-blog@main/static/images/03-mental-gymnastics.jpg)
 
 Если говорить о моём опыте RIFR (Rewrite It From Rust или типа того),
 то библиотеке [urfave/cli](https://github.com/urfave/cli) на `Go` которую я

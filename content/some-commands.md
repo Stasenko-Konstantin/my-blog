@@ -1,6 +1,15 @@
 # команды emacs
 
+- [dwm](#dwm)
 - [scheme (geiser)](#scheme-geiser)
+
+## dwm
+
+- startx - запуск dwm
+- Shift+Alt+Enter - запуск терминала
+- Shift+Alt+C - закрыть окно
+- Alt+LBM - перетащить окно
+- Alt+RBM - изменить размер окна
 
 ## scheme (geiser)
 

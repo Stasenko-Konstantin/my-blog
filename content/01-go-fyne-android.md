@@ -58,12 +58,12 @@ mv platform-tools Sdk
 emacs ~/.bashrc
 ```
 
-Вместо `emacs` можете использовать свой любимый редактор (но я буду вас осуждать за это). И добавляем в конец файла следующий фрагмент в котором заменяем все вхождения `{$user}` на свое имя пользователя:
+Вместо `emacs` можете использовать свой любимый редактор (но я буду вас осуждать за это). И добавляем в конец файла следующий фрагмент:
 
 ```bash
-export ANDROID_HOME="/home/{$user}/Android"
-export ANDROID_NDK_HOME="/home/{$user}/Android/ndk-bundle"
-export ANDROID_SDK_HOME="/home/{$user}/Android/Sdk"
+export ANDROID_HOME="$HOME/Android"
+export ANDROID_NDK_HOME="$HOME/Android/ndk-bundle"
+export ANDROID_SDK_HOME="$HOME/Android/Sdk"
 export PATH=$PATH:$ANDROID_HOME:$ANDROID_NDK_HOME:$ANDROID_SDK_HOME
 ```
 

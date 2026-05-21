@@ -3,6 +3,7 @@ title = "Блог Константина Стасенко"
 +++
 
 - Почта: stasenko.kost@yandex.ru
+- Вк: https://vk.com/stonekost
 
 ---
 
